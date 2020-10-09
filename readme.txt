@@ -1,0 +1,1 @@
+以京东为例，采用requests库获取页面，采用正则表达式和BeautifulSoup库提取信息，采用pandas库清洗数据。
